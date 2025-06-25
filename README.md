@@ -34,4 +34,25 @@ All requests are JSON-based and support proper status codes.
 ---
 
 ## 📁 Folder Structure
+coffee-store-server/
+├── node_modules/
+├── .env
+├── index.js
+├── package.json
+└── README.md
+
+---
+
+## 📦 Dependencies
+
+```json
+"express": "^4.18.2",
+"mongodb": "^5.7.0",
+"cors": "^2.8.5",
+"dotenv": "^16.4.5",
+"nodemon": "^3.0.3" // Dev only
+
+📁 Clone the Repository
+git clone https://github.com/yourusername/coffee-store-server.git
+cd coffee-store-server
 
