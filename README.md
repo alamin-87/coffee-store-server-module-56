@@ -53,8 +53,9 @@ coffee-store-server/
 "dotenv": "^16.4.5",
 "nodemon": "^3.0.3"
 }
+---
 
-📁 Clone the Repository
+## 📁 Clone the Repository
 git clone https://github.com/yourusername/coffee-store-server.git
 cd coffee-store-server
 
