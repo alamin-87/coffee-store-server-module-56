@@ -60,3 +60,21 @@ coffee-store-server/
 git clone https://github.com/yourusername/coffee-store-server.git
 cd coffee-store-server
 
+## 🛠️ Setup & Run Locally
+npm install
+##  Configure Environment Variables
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+## Start the Development Server
+npm run dev
+## 🧪 Test With Postman
+GET http://localhost:5000/coffee
+
+POST http://localhost:5000/coffee
+
+GET http://localhost:5000/coffee/:id
+
+PUT http://localhost:5000/coffee/:id
+
+DELETE http://localhost:5000/coffee/:id
+
