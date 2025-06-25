@@ -53,6 +53,7 @@ coffee-store-server/
 "dotenv": "^16.4.5",
 "nodemon": "^3.0.3"
 }
+```
 ---
 
 ## 📁 Clone the Repository
